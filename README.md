@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0575E6,100:021B79&height=180&section=header&text=Agam%20Chauhan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Backend%20%7C%20Systems&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:02260c,100:00FF66&height=180&section=header&text=Agam%20Chauhan&fontSize=40&fontColor=ffffff&stroke=00FF66&strokeWidth=1&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20Backend%20%7C%20Systems&descAlignY=58&descSize=18" width="100%"/>
 
 <p>
   <a href="https://www.linkedin.com/in/agam-chauhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
