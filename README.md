@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=620&height=130&lines=root%40houdini%3A~%23+whoami;Agam+Chauhan;root%40houdini%3A~%23+cat+focus.txt;Cybersecurity+%E2%80%A2+Backend+%E2%80%A2+Systems;root%40houdini%3A~%23+./status.sh;Access+Granted+%5B%2B%5D" alt="Hacker Terminal" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:051E0B,100:00FF41&height=200&section=header&text=Agam%20Chauhan&fontSize=42&fontColor=ffffff&desc=Cybersecurity%20%7C%20Backend%20%7C%20Systems&descAlignY=60&descSize=18&fontAlignY=38&animation=twinkling&stroke=00FF41&strokeWidth=1.5" width="100%"/>
 
 <p>
   <a href="https://www.linkedin.com/in/agam-chauhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
