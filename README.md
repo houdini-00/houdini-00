@@ -37,7 +37,7 @@
 
 ## 🟢 Cybersecurity
 
-`security-labs`
+[`security-labs`](https://github.com/houdini-00/security-labs)
 
 ---
 
