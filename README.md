@@ -7,11 +7,7 @@
   <a href="mailto:chauhanagam09@gmail.com"><img src="https://img.shields.io/badge/Email-052e16?style=for-the-badge&logo=gmail&logoColor=00FF66"/></a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-00FF66?style=flat-square&logo=kalilinux&logoColor=black&labelColor=052e16"/>
-  <img src="https://img.shields.io/badge/Focus-Backend_%26_Systems-00FF66?style=flat-square&logo=linux&logoColor=black&labelColor=052e16"/>
-  <img src="https://img.shields.io/badge/DSA-Java-00FF66?style=flat-square&logo=openjdk&logoColor=black&labelColor=052e16"/>
-</p>
+<h3>Cybersecurity &nbsp;•&nbsp; Backend & Systems &nbsp;•&nbsp; Java DSA</h3>
 
 </div>
 
