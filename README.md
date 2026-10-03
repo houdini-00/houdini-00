@@ -11,6 +11,19 @@
 
 ---
 
+## 🟢 About Me
+
+> *"I break things ethically so someone else doesn't break them maliciously."*
+
+Hey, I'm **Agam** — exploring the space between **Cybersecurity**, **Backend Systems**, and **Java DSA**.
+
+- 🛡️ **Ethical Hacker:** Breaking into systems (with permission, promise) and securing the cracks before anyone else finds them.
+- ⚙️ **Backend & Systems:** Architecting resilient backends and turning caffeine into clean, low-latency code.
+- ☕ **DSA Enthusiast:** Grinding problems in Java because the scariest zero-day is still an accidental `O(N²)`.
+- 🐧 **Linux Native:** Fluent in terminal rabbit holes, bash scripts, and `sudo !!`.
+
+---
+
 ### 🟢 Currently working on:
 - [`java-dsa`](https://github.com/houdini-00/java-dsa) — DSA in Java
 - [`backend-and-system-design`](https://github.com/houdini-00/backend-and-system-design) — Backend & System Design
