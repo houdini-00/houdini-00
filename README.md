@@ -7,8 +7,6 @@
   <a href="mailto:chauhanagam09@gmail.com"><img src="https://img.shields.io/badge/Email-052e16?style=for-the-badge&logo=gmail&logoColor=00FF66"/></a>
 </p>
 
-<h3>Cybersecurity &nbsp;•&nbsp; Backend & Systems &nbsp;•&nbsp; Java DSA</h3>
-
 </div>
 
 ---
