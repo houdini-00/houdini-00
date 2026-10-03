@@ -17,10 +17,10 @@
 
 Hey, I'm **Agam** — exploring the space between **Cybersecurity**, **Backend Systems**, and **Java DSA**.
 
-- 🛡️ **Ethical Hacker:** Breaking into systems (with permission, promise) and securing the cracks before anyone else finds them.
-- ⚙️ **Backend & Systems:** Architecting resilient backends and turning caffeine into clean, low-latency code.
-- ☕ **DSA Enthusiast:** Grinding problems in Java because the scariest zero-day is still an accidental `O(N²)`.
-- 🐧 **Linux Native:** Fluent in terminal rabbit holes, bash scripts, and `sudo !!`.
+- **Ethical Hacker:** Breaking into systems (with permission, promise) and securing the cracks before anyone else finds them.
+- **Backend & Systems:** Architecting resilient backends and turning caffeine into clean, low-latency code.
+- **DSA:** Grinding problems in Java because the scariest zero-day is still an accidental `O(N²)`.
+- **Linux Native:** Fluent in terminal rabbit holes, bash scripts, and `sudo !!`.
 
 ---
 
