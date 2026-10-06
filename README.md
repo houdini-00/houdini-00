@@ -27,6 +27,7 @@ Hey, I'm **Agam** — exploring the space between **Cybersecurity**, **Backend S
 ### 🟢 Currently working on:
 - [`java-dsa`](https://github.com/houdini-00/java-dsa) — DSA in Java
 - [`backend-and-system-design`](https://github.com/houdini-00/backend-and-system-design) — Backend & System Design
+- [`intrusion-detection-system`](https://github.com/houdini-00/intrusion-detection-system) — Building an Intrusion Detection System from Scratch
 
 ---
 
@@ -49,3 +50,10 @@ Hey, I'm **Agam** — exploring the space between **Cybersecurity**, **Backend S
 ---
 
 ## 🟢 Projects
+
+### 🛡️ [`intrusion-detection-system`](https://github.com/houdini-00/intrusion-detection-system)
+> *Building a lightweight Network Intrusion Detection System (NIDS) from scratch in Python.*
+
+- **Focus:** Low-level packet capture, protocol decapsulation (Ethernet/IP/TCP/UDP/ICMP), signature-based inspection, and behavioral heuristics.
+- **Documentation:** A transparent technical engineering journal documenting packet parsing mechanics, lab testing, bug investigations, and performance trade-offs.
+
